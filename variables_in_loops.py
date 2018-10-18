@@ -16,7 +16,7 @@ def main():
 		print(y_element)
 		
 #execute the main function
-if __name__=="__main__"
+if __name__=="__main__":
 	main()
 
 
