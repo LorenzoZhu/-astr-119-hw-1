@@ -8,7 +8,7 @@ def main():
 	x=119.0	#declare a float x, with val 119
 	
 	for i in range(120):	#loops i from 0 to 120
-		if((i*2)==0):	#if i is even
+		if((i%2)==0):	#if i is even
 			x += 3	#add 3 to x
 		else:
 			x -= 5
